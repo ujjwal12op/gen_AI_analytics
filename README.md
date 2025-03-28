@@ -2,7 +2,7 @@
 
 This project is a lightweight backend service simulating a simplified version of a Gen AI Analytics data query system. The backend processes natural language queries, converts them to pseudo-SQL, and provides simulated responses. It also supports query validation and explanation.
 
-## 🚀 Features
+##  Features
 - Natural language query processing
 - Pseudo-SQL translation
 - Query explanation breakdown
@@ -10,7 +10,7 @@ This project is a lightweight backend service simulating a simplified version of
 - Basic API key-based authentication
 - Error handling and structured responses
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Node.js**: Server runtime environment
 - **Express.js**: Web framework
 - **MongoDB**: NoSQL database for data simulation
@@ -18,7 +18,7 @@ This project is a lightweight backend service simulating a simplified version of
 - **body-parser**: Parsing request bodies
 - **Postman**: API testing
 
-## 📝 Installation and Setup
+##  Installation and Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/gen-ai-analytics-sim.git
@@ -44,7 +44,7 @@ This project is a lightweight backend service simulating a simplified version of
 
 The server will be running at `http://localhost:3000`
 
-## 🔥 API Endpoints
+##  API Endpoints
 ### Authentication
 Add an `x-api-key` header with your API key to every request.
 
