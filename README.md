@@ -100,7 +100,7 @@ Add an `x-api-key` header with your API key to every request.
   }
   ```
 
-## 🧪 Testing with Postman
+##  Testing with Postman
 1. Import the provided Postman collection.
 2. Set the environment variables (API key).
 3. Test the endpoints using the sample requests above.
